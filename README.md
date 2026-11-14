@@ -7,3 +7,4 @@ Source of [abdani.github.io](https://abdani.github.io/) — the home page that l
 - [Donat Screen](https://abdani.github.io/Donat-Screen/) — A tiny, portable screenshot tool that lives in the tray. One hotkey, clipboard first, saved where you want it.
 - [Android Media Separator](https://abdani.github.io/Android-Media-Separator/) — Sorts an Android phone's photos, videos, audio and documents into neat folders on your PC — over USB or from a folder.
 - [Select & Delete](https://abdani.github.io/Select-Delete-GUI/) — See every photo and video as a thumbnail, zoom and play them, tick the ones you don't need and delete them safely — on your PC or an Android phone.
+- [Zoom War](https://abdani.github.io/Zoom-War/) — Keeps trying to join a full Zoom meeting until a slot opens, then sounds the alarm the moment you're in.
